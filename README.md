@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Hubert Musiała (@Musialkov)
-- 👀 I’m interested in game programing especially in Unity
-- 🌱 I’m currently learning interimidiate thing in Unity
+- 👋 Hi, I’m Hubert Musiała (@Musialkov) and I am a student of Applied Computer Science
+- 👀 I’m interested in game programing especially in Unity and I want to connect my future with it. I really like to learn new things
 
 
 <!---
