@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hubert Musiała (@Musialkov) and I am a student of Applied Computer Science
-- 👀 I’m interested in game programming and web developing
+- 👀 I’m interested in game programming and web development
 
 
 <!---
