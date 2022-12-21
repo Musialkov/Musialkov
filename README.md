@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Hubert Musiała (@Musialkov) and I am a student of Applied Computer Science
-- 👀 I’m interested in game programming and web development
+👋 Hi, I’m Hubert Musiała (@Musialkov) and I am an enthusiast of game programming and gamedev in general. 
+
+You can see results of my projects here : https://www.youtube.com/channel/UCSZGJd5-iO6VYgZ-JsaevPg
+
+You can also download my games from : https://musialkov.itch.io/
+
 
 
 <!---
