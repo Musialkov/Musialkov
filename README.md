@@ -1,4 +1,4 @@
-👋 Hi, I’m Hubert Musiała (@Musialkov) and I am an enthusiast of game programming and gamedev in general. 
+👋 Hi, I’m Hubert Musiała (@Musialkov) and I am a game programmer and an enthusiast of gamedev in general. 
 
 You can see results of my projects here : https://www.youtube.com/channel/UCSZGJd5-iO6VYgZ-JsaevPg
 
